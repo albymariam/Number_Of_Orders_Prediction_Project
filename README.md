@@ -1,28 +1,28 @@
 E-Commerce Order Demand Forecasting
 
-Overview
+Overview:
 This project predicts future customer order demand for an e-commerce platform using historical sales, pricing, marketing, and seasonality data.
 It helps in inventory planning, demand estimation, and business decision-making.
 
-Features
+Features:
 -> Data preprocessing & feature engineering
 ->Lag and moving-average time series features
 ->Multiple regression models for comparison
 ->Next-day and 7-day order forecasting
 ->Trend and seasonality visualizations
 
-Tech Stack
-Language: Python
-Libraries: pandas, numpy, matplotlib, seaborn, scikit-learn, XGBoost
-Tools: VS Code, Jupyter Notebook, Git, GitHub
+Tech Stack:
+Language: Python 
+Libraries: pandas, numpy, matplotlib, seaborn, scikit-learn, XGBoost 
+Tools: VS Code, Jupyter Notebook, Git, GitHub 
 
-Models Used
-Linear Regression
-Random Forest Regressor
-XGBoost Regressor
+Models Used:
+Linear Regression  
+Random Forest Regressor  
+XGBoost Regressor  
 Evaluation Metrics: RMSE, MAE, R²
 
-Forecasting
+Forecasting:
 ->Predicts next-day orders for selected products
 ->Generates 7-day demand forecasts using historical patterns
 
