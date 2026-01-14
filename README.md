@@ -28,11 +28,8 @@ Forecasting
 
 
 Note: This project uses a synthetic/simulated dataset created to reflect realistic e-commerce demand patterns.
-
-
 Run the notebook/script after placing the dataset in the project folder.
 
-👩‍💻 Author
 
-Alby Mariam Thomas
-B.Tech CSE Student | ML & Data Science Enthusiast
+Author: Alby Mariam Thomas
+
